@@ -1293,12 +1293,13 @@ input:-ms-input-placeholder {
 
 //__________________Footer_________________
 .footer {
-
+	border-top: 2px solid #f1f5f8;
 	&__body {
 		margin-top: 27px;
 		padding-bottom: 30px;
 		display: flex;
 		justify-content: space-around;
+		border-top: 2px solid #000;
 	}
 
 	&__text {

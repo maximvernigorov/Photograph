@@ -1302,11 +1302,15 @@ input:-ms-input-placeholder {
   margin: 39px 0px 28px;
 }
 
+.footer {
+  border-top: 2px solid #f1f5f8;
+}
 .footer__body {
   margin-top: 27px;
   padding-bottom: 30px;
   display: flex;
   justify-content: space-around;
+  border-top: 2px solid #000;
 }
 .footer__text {
   color: #3e505e;
