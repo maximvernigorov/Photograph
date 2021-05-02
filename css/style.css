@@ -1152,14 +1152,14 @@ input:-ms-input-placeholder {
 }
 .advantages__item:before {
   content: "";
-  background: url("./../../img/page_about/arrow.svg") 0 50% no-repeat;
+  background: url("./../img/page_about/arrow.svg") 0 50% no-repeat;
   padding-left: 19px;
 }
 
 .feedback {
   color: #3e505e;
   font-family: Poppins;
-  background: url("../../img/page_about/cut.png") 100% 95%/100% auto no-repeat;
+  background: url("./../img/page_about/cut.png") 100% 95%/100% auto no-repeat;
   background-color: #f1f5f8;
   margin-bottom: -50px;
 }
@@ -1170,19 +1170,19 @@ input:-ms-input-placeholder {
 }
 @media (min-width: 320px) and (max-width: 425px) {
   .feedback {
-    background: url("../../img/page_about/cut.png") 100% 93.2%/100% auto no-repeat;
+    background: url("./../img/page_about/cut.png") 100% 93.2%/100% auto no-repeat;
     background-color: #f1f5f8;
   }
 }
 @media (min-width: 425px) and (max-width: 768px) {
   .feedback {
-    background: url("../../img/page_about/cut.png") 100% 92.9%/100% auto no-repeat;
+    background: url("./../img/page_about/cut.png") 100% 92.9%/100% auto no-repeat;
     background-color: #f1f5f8;
   }
 }
 @media (min-width: 768.9px) and (max-width: 1024px) {
   .feedback {
-    background: url("../../img/page_about/cut.png") 100% 90%/100% auto no-repeat;
+    background: url("./../img/page_about/cut.png") 100% 90%/100% auto no-repeat;
     background-color: #f1f5f8;
   }
 }
